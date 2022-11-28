@@ -125,5 +125,6 @@ hr
 }
 .btn
 {
-  padding-top:10px;
+  position:absolute;
+  top:30px;
 }
