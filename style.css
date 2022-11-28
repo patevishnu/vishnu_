@@ -123,4 +123,7 @@ hr
   background-image: linear-gradient(to bottom, #55a8db, #3498db);
   text-decoration: none;
 }
-
+.btn
+{
+  padding-bottom:10px;
+}
